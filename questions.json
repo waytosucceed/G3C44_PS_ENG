@@ -1,0 +1,238 @@
+{
+  "heading": "What are they called",
+  "topics": [
+    {
+      "heading": "JOBS AND PROFESSION",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Fill in the blank: An __________ writes books and stories.",
+          "options": [
+            { "text": "Editor" },
+            { "text": "Printer" },
+            { "text": "Author" },
+            { "text": "Publisher" }
+          ],
+          "answer": 2,
+          "explanation": "An author is someone who writes books, stories, or articles. They use their imagination and writing skills to create interesting tales or share information with readers. Authors help us explore new worlds through their words."
+        },
+        {
+          "questionNo": 2,
+          "question": "An architect designs clothes.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "An architect designs buildings, not clothes. Architects create plans for houses, offices, and other structures. They make sure buildings are safe, useful, and look good."
+        },
+        {
+          "questionNo": 3,
+          "question": "Who makes bread and cakes?",
+          "options": [
+            { "text": "Baking" },
+            { "text": "Waiter" },
+            { "text": "Baker" },
+            { "text": "Farmer" }
+          ],
+          "answer": 2,
+          "explanation": "A baker is someone who makes bread, cakes, pastries, and other baked goods. They mix ingredients, shape dough, and use ovens to create delicious treats for people to enjoy."
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blank: An __________ travels to space.",
+          "options": [
+            { "text": "Explorer" },
+            { "text": "Astronaut" },
+            { "text": "Pilot" },
+            { "text": "Scientist" }
+          ],
+          "answer": 1,
+          "explanation": "An astronaut is a person who is trained to travel and work in space. They fly in spacecraft, conduct experiments, and explore the universe beyond Earth."
+        },
+        {
+          "questionNo": 5,
+          "question": "A judge teaches in a classroom.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "A judge doesn't teach in a classroom. A judge works in a court of law, making decisions and ensuring that laws are followed fairly. Teachers are the ones who teach in classrooms."
+        },
+        {
+          "questionNo": 6,
+          "question": "Who takes pictures as a job?",
+          "options": [
+            { "text": "Artist" },
+            { "text": "Painter" },
+            { "text": "Photographer" },
+            { "text": "Producer" }
+          ],
+          "answer": 2,
+          "explanation": "A photographer is someone who takes pictures using a camera as their job."
+        },
+        {
+          "questionNo": 7,
+          "question": "A plumber fixes electrical problems.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "A plumber doesn't fix electrical problems. Plumbers work with pipes and water systems. They fix leaks, unclog drains, and install water-related fixtures. Electricians are the ones who fix electrical problems."
+        },
+        {
+          "questionNo": 8,
+          "question": "Who serves in the army to protect the country?",
+          "options": [
+            { "text": "Police Officer" },
+            { "text": "Firefighter" },
+            { "text": "Pilot" },
+            { "text": "Soldier" }
+          ],
+          "answer": 3,
+          "explanation": "A soldier is a person who serves in the army or military. They train to defend their country, help during emergencies, and sometimes participate in peacekeeping missions around the world."
+        },
+        {
+          "questionNo": 9,
+          "question": "Fill in the blank: A __________ takes care of sick animals.",
+          "options": [
+            { "text": "Painter" },
+            { "text": "Nurse" },
+            { "text": "Vet" },
+            { "text": "Zookeeper" }
+          ],
+          "answer": 2,
+          "explanation": "A vet, short for a veterinarian, is a doctor for animals. They diagnose and treat illnesses in pets, farm animals, and sometimes wild animals. Vets help keep our animal friends healthy and happy."
+        },
+        {
+          "questionNo": 10,
+          "question": "A librarian sells books in a bookstore.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "A librarian doesn't sell books in a bookstore. Librarians work in libraries where they organise books, help people find information, and sometimes read stories to children. Bookstore clerks or owners sell books in bookstores."
+        },
+        {
+          "questionNo": 11,
+          "question": "Who designs buildings?",
+          "options": [
+            { "text": "Engineer" },
+            { "text": "Architect" },
+            { "text": "Doctor" },
+            { "text": "Decorator" }
+          ],
+          "answer": 1,
+          "explanation": "An architect is a person who designs buildings and structures. They create plans and drawings that show how a building will look and how it should be built. Architects make sure buildings are safe, useful, and beautiful."
+        },
+        {
+          "questionNo": 12,
+          "question": "Who fixes cars when they break down?",
+          "options": [
+            { "text": "Mechanic" },
+            { "text": "Builder" },
+            { "text": "Electrician" },
+            { "text": "Plumber" }
+          ],
+          "answer": 0,
+          "explanation": "A mechanic is someone who repairs and maintains vehicles like cars and trucks. They use tools and their knowledge of how engines and other car parts work to fix problems and keep vehicles running smoothly."
+        },
+        {
+          "questionNo": 13,
+          "question": "Fill in the blank: A __________ grows fruits and vegetables on a farm.",
+          "options": [
+            { "text": "Baker" },
+            { "text": "Grocer" },
+            { "text": "Farmer" },
+            { "text": "Chef" }
+          ],
+          "answer": 2,
+          "explanation": "A farmer is a person who grows crops like fruits and vegetables or raises animals for food. They work on farms, using their knowledge of plants and animals to produce food for many people."
+        },
+        {
+          "questionNo": 14,
+          "question": "A dentist takes care of people's teeth.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 0,
+          "explanation": "A dentist is a doctor who specializes in taking care of teeth and gums. They check for cavities, clean teeth, and perform treatments to keep our mouths healthy and our smiles bright."
+        },
+        {
+          "questionNo": 15,
+          "question": "Who delivers letters?",
+          "options": [
+            { "text": "Driver" },
+            { "text": "Mailman" },
+            { "text": "Firefighter" },
+            { "text": "None of the above" }
+          ],
+          "answer": 1,
+          "explanation": "A mailman, also called a postal worker or mail carrier, is someone who delivers letters, packages, and other mail to homes and businesses. They help people stay connected by bringing important messages and items to their destinations."
+        },
+        {
+          "questionNo": 16,
+          "question": "Fill in the blank: A __________ cooks food in a restaurant.",
+          "options": [
+            { "text": "Waiter" },
+            { "text": "Chef" },
+            { "text": "Baker" },
+            { "text": "Cashier" }
+          ],
+          "answer": 1,
+          "explanation": "A chef is a professional cook who prepares meals in restaurants or other food service places. They create recipes, cook dishes, and oversee the kitchen to make sure the food tastes good and is prepared safely."
+        },
+        {
+          "questionNo": 17,
+          "question": "Choose the correct spelling:",
+          "options": [
+            { "text": "Profession" },
+            { "text": "Profesion" },
+            { "text": "Profetion" },
+            { "text": "Profassion" }
+          ],
+          "answer": 0,
+          "explanation": "The correct spelling is 'P-R-O-F-E-S-S-I-O-N.' It means a job that needs a high level of training and/or education."
+        },
+        {
+          "questionNo": 18,
+          "question": "A pilot drives a bus.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "A pilot doesn't drive a bus. Pilots fly aeroplanes, while bus drivers are the ones who operate buses. Pilots and bus drivers have very different jobs and require different training."
+        },
+        {
+          "questionNo": 19,
+          "question": "Who teaches students in a classroom?",
+          "options": [
+            { "text": "Principal" },
+            { "text": "Librarian" },
+            { "text": "Teacher" },
+            { "text": "Coach" }
+          ],
+          "answer": 2,
+          "explanation": "A teacher is a person who helps students learn new things. They work in schools, explaining subjects like math, science, and reading to help children grow and develop their knowledge and skills."
+        },
+        {
+          "questionNo": 20,
+          "question": "Who helps keep people's teeth healthy?",
+          "options": [
+            { "text": "Vet" },
+            { "text": "Nurse" },
+            { "text": "Dentist" },
+            { "text": "Chef" }
+          ],
+          "answer": 2,
+          "explanation": "A dentist is a doctor who specializes in taking care of teeth and gums. They check for cavities, clean teeth, and perform treatments to keep our mouths healthy and our smiles bright."
+        }
+      ]
+    }
+  ]
+}
